@@ -1,2 +1,2 @@
 # evergreen
-The core package for EvergreenPHP
+EvergreenPHP Framework

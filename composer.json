@@ -10,7 +10,7 @@
 	"license": "MIT",
 	"require": {
 		"php": "^7.3|^8.0",
-		"evergreenphp/evergreen": "0.1.*"
+		"evergreenphp/core": "0.1.*"
 	},
 	"require-dev": {
 	},
