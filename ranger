@@ -1,0 +1,11 @@
+#!/usr/bin/env php
+<?php
+
+define('EVERGREEN_START', microtime(true));
+
+require __DIR__.'/vendor/autoload.php';
+require_once __DIR__.'app.php';
+
+$status = 'OK RANGER';
+
+exit($status);
